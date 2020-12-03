@@ -1,7 +1,7 @@
 {
-    "name": "Blank Message Sender",
+    "name": "Blanker",
     "version": "1.0.0",
     "author": "Some_Aspy#9999",
     "license": "GNU GPLv3",
-    "description": "Sends empty messages OwO"
+    "description": "Sends an empty message using zero width characters."
 }
