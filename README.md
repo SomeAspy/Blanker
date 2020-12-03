@@ -1,2 +1,2 @@
 # Blanker
-currently broken, dont use lol
+Sends a blank message using zero width characters
